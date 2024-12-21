@@ -13,7 +13,7 @@ Questo progetto è un **Ticket Bot** creato in Python, progettato per semplifica
 
 
 ## Utilizzo
-Una volta caricato il bot sul tuo host, inserisci nel file `main.py` tutte le parti da completare ( Token , domande per candidatura ect ) 
+Una volta caricato il bot sul tuo host, inserisci nel file `bot.py` tutte le parti da completare ( Token , domande per candidatura ect ) 
 
 ## Contribuire
 Se desideri contribuire al progetto, sentiti libero di fare fork del repository e inviare una pull request. Tutti i contributi sono benvenuti!
